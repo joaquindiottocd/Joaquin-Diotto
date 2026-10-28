@@ -1,0 +1,8 @@
+{
+  "name": "Cobranzas CD Route",
+  "description": "El registro de pagos de tu equipo, en un solo lugar. Sincronización automática con la plataforma web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
